@@ -1,5 +1,5 @@
 - ⚪ Hi there I’m Ka, a Game Developer currently studying at USW.
-- ⚪ Learning C++/C# 2+Yrs, Python 1+Yrs and Javascript.
+- ⚪ Curently have 2+ years of experience with C++/C#, 1+ years with Python and few months with Javascript, still learning.
 - ⚪ Hoping to work at Riot Games Studio in the near future, need to teach them how to balance their game 😁.
 - ⚪ How to reach me - Discord Ⱡᴜᴄᴋʏ#0001 || Twitter https://twitter.com/Luckyzxz
 
