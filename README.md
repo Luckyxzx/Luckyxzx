@@ -1,6 +1,9 @@
 - ⚪ Hi there I’m Ka, a Game Developer currently studying at USW.
-- ⚪ Curently have 2+ years of experience with C++/C#, 1+ years with Python and few months with Javascript, still learning.
+- ⚪ Experienced with C++/C#, Java, HTML, Python, Xaml.
 - ⚪ Hoping to work at Riot Games Studio in the near future, need to teach them how to balance their game 😁.
 - ⚪ How to reach me - Discord Ⱡᴜᴄᴋʏ#0001 || Twitter https://twitter.com/Luckyzxz
 
-![GolDRogerOnePieceGIF](https://user-images.githubusercontent.com/65267687/175784526-30940e61-2839-4665-a8a3-dc9afa7ac129.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Ka's github stats](https://github-readme-stats.vercel.app/api?username=luckyxzx)
